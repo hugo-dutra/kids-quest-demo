@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="KidQuest app icon">
+  <defs>
+    <linearGradient id="sky" x1="32" y1="18" x2="160" y2="174" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E5F7FF"/>
+      <stop offset="1" stop-color="#FFF4DC"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="42" fill="url(#sky)"/>
+  <rect x="34" y="44" width="124" height="112" rx="20" fill="#FFFFFF" stroke="#CFE4EE" stroke-width="6"/>
+  <path d="M60 78h72M60 104h72M60 130h44" fill="none" stroke="#183042" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="136" cy="131" r="24" fill="#FFD166"/>
+  <path d="M124 131l8 8 17-20" fill="none" stroke="#183042" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="54" cy="52" r="10" fill="#8E7CF6"/>
+  <circle cx="145" cy="48" r="8" fill="#35C6A6"/>
+</svg>

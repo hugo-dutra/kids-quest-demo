@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="KidQuest tablet and desktop preview screenshot">
+  <rect width="1280" height="720" fill="#DFF3FB"/>
+  <circle cx="206" cy="142" r="96" fill="#FFF4DC"/>
+  <circle cx="1052" cy="596" r="124" fill="#EDE9FF"/>
+  <rect x="445" y="34" width="390" height="652" rx="34" fill="#EEF9FD" stroke="#C8E8F5" stroke-width="5"/>
+  <rect x="450" y="512" width="380" height="174" fill="#FFF4DC"/>
+  <text x="470" y="100" fill="#183042" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">KidQuest</text>
+  <text x="470" y="122" fill="#51697D" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">Today's todo</text>
+  <circle cx="790" cy="104" r="22" fill="#EDE9FF" stroke="#8E7CF6" stroke-width="3"/>
+  <rect x="470" y="150" width="350" height="124" rx="8" fill="#FFFFFF" stroke="#CFE4EE"/>
+  <rect x="470" y="150" width="350" height="10" fill="#00A7B7"/>
+  <text x="486" y="190" fill="#183042" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800">Hi, Milo!</text>
+  <text x="486" y="214" fill="#51697D" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">Finish 5 more quests</text>
+  <circle cx="758" cy="206" r="35" fill="#E8EEF1"/>
+  <path d="M758 171a35 35 0 0 1 0 70" fill="none" stroke="#FFD166" stroke-width="12" stroke-linecap="round"/>
+  <text x="742" y="213" fill="#183042" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="900">0%</text>
+  <text x="470" y="334" fill="#183042" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900">Quest list</text>
+  <text x="744" y="334" fill="#51697D" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800">5 left</text>
+  <rect x="470" y="356" width="350" height="68" rx="8" fill="#FFFFFF" stroke="#CFE4EE"/>
+  <circle cx="498" cy="390" r="18" fill="#CFF6FA"/>
+  <text x="532" y="387" fill="#183042" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="900">Brush teeth</text>
+  <text x="532" y="407" fill="#51697D" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700">2 minutes - before breakfast</text>
+  <rect x="470" y="438" width="350" height="68" rx="8" fill="#FFFFFF" stroke="#CFE4EE"/>
+  <circle cx="498" cy="472" r="18" fill="#EDE9FF"/>
+  <text x="532" y="469" fill="#183042" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="900">Homework focus</text>
+  <text x="532" y="489" fill="#51697D" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700">Finish one school task</text>
+  <rect x="470" y="530" width="350" height="106" rx="8" fill="#FFFFFF" stroke="#CFE4EE"/>
+  <circle cx="504" cy="568" r="22" fill="#FFD166"/>
+  <text x="538" y="566" fill="#183042" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="900">Reward stars</text>
+  <text x="538" y="588" fill="#51697D" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700">0 points ready</text>
+  <text x="114" y="332" fill="#183042" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="900">Local quests,</text>
+  <text x="114" y="382" fill="#183042" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="900">parent protected.</text>
+  <text x="904" y="330" fill="#183042" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="900">Offline PWA</text>
+  <text x="904" y="370" fill="#51697D" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Tasks, alarms, points, and prizes stay local.</text>
+</svg>
